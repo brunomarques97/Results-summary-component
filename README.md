@@ -44,5 +44,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://bruno-marques.vercel.app/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/brunomarques97)
+- Website - [Bruno Marques](https://bruno-marques.vercel.app/)
+- Frontend Mentor - [@brunomarques97](https://www.frontendmentor.io/profile/brunomarques97)

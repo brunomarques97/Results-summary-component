@@ -34,6 +34,33 @@ Users should be able to:
 
 ## My process
 
+### -[ ]Estrutura HTML:
+
+        -[ ] Começando a estrutura HTML semântica.
+        -[ ] Adicionando classes e IDs para facilitar o estilo e manipulação do DOM.
+        -[ ] Estrutura básica da página pronta para ser estilizada.
+
+### -[ ]Estilo CSS:
+
+        -[ ] Definindo estilos básicos de tipografia, cores e espaçamento.
+        -[ ] Implementando layout responsivo com Flexbox e Grid Layout.
+        -[ ] Estilos específicos para estados de foco e foco nos elementos interativos.
+        -[ ] CSS da interface finalizado e otimizado.
+
+### -[ ]Scripts:
+
+        -[ ] Carregando e processando dados JSON locais usando JavaScript.
+        -[ ] Preenchendo o conteúdo da interface dinamicamente com base nos dados JSON.
+        -[ ] Implementando funcionalidades interativas como navegação, filtros e ações.
+        -[ ] Scripts testados e otimizados para melhor desempenho.
+
+### -[ ]Detalhes Adicionais:
+
+        -[ ] Layout otimizado para diferentes tamanhos de tela.
+        -[ ] Estados de foco e foco claros e intuitivos para todos os elementos interativos.
+        -[ ] Validação e tratamento de erros para dados JSON locais.
+
+
 ### Built with
 
 - Semantic HTML5 markup
@@ -46,3 +73,5 @@ Users should be able to:
 
 - Website - [Bruno Marques](https://bruno-marques.vercel.app/)
 - Frontend Mentor - [@brunomarques97](https://www.frontendmentor.io/profile/brunomarques97)
+
+

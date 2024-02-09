@@ -29,16 +29,15 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
 - Live Site URL: 
 
 ## My process
 
-### -[ ]Estrutura HTML:
+### -[x]Estrutura HTML:
 
         -[x] Começando a estrutura HTML semântica.
         -[x] Adicionando classes e IDs para facilitar o estilo e manipulação do DOM.
-        -[ ] Estrutura básica da página pronta para ser estilizada.
+        -[x] Estrutura básica da página pronta para ser estilizada.
 
 ### -[ ]Estilo CSS:
 

@@ -37,7 +37,7 @@ Users should be able to:
 ### -[ ]Estrutura HTML:
 
         -[x] Começando a estrutura HTML semântica.
-        -[ ] Adicionando classes e IDs para facilitar o estilo e manipulação do DOM.
+        -[x] Adicionando classes e IDs para facilitar o estilo e manipulação do DOM.
         -[ ] Estrutura básica da página pronta para ser estilizada.
 
 ### -[ ]Estilo CSS:

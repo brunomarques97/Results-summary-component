@@ -39,12 +39,12 @@ Users should be able to:
         -[x] Adicionando classes e IDs para facilitar o estilo e manipulação do DOM.
         -[x] Estrutura básica da página pronta para ser estilizada.
 
-### -[ ]Estilo CSS:
+### -[x]Estilo CSS:
 
         -[x] Definindo estilos básicos de tipografia, cores e espaçamento.
         -[x] Implementando layout responsivo com Flexbox e Grid Layout.
         -[x] Estilos específicos para estados de foco e foco nos elementos interativos.
-        -[ ] CSS da interface finalizado e otimizado.
+        -[x] CSS da interface finalizado e otimizado.
 
 ### -[ ]Scripts:
 

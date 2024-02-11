@@ -42,7 +42,7 @@ Users should be able to:
 ### -[ ]Estilo CSS:
 
         -[x] Definindo estilos básicos de tipografia, cores e espaçamento.
-        -[ ] Implementando layout responsivo com Flexbox e Grid Layout.
+        -[x] Implementando layout responsivo com Flexbox e Grid Layout.
         -[ ] Estilos específicos para estados de foco e foco nos elementos interativos.
         -[ ] CSS da interface finalizado e otimizado.
 

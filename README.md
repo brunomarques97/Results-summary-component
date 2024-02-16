@@ -46,20 +46,6 @@ Users should be able to:
         -[x] Estilos específicos para estados de foco e foco nos elementos interativos.
         -[x] CSS da interface finalizado e otimizado.
 
-### -[ ]Scripts:
-
-        -[ ] Carregando e processando dados JSON locais usando JavaScript.
-        -[ ] Preenchendo o conteúdo da interface dinamicamente com base nos dados JSON.
-        -[ ] Implementando funcionalidades interativas como navegação, filtros e ações.
-        -[ ] Scripts testados e otimizados para melhor desempenho.
-
-### -[ ]Detalhes Adicionais:
-
-        -[ ] Layout otimizado para diferentes tamanhos de tela.
-        -[ ] Estados de foco e foco claros e intuitivos para todos os elementos interativos.
-        -[ ] Validação e tratamento de erros para dados JSON locais.
-
-
 ### Built with
 
 - Semantic HTML5 markup
